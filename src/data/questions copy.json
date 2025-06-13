@@ -1,0 +1,754 @@
+{
+  "questions": {
+    "1": [
+      {
+        "id": 1,
+        "text": "ما هي أكبر صحراء في العالم؟",
+        "category": "الجغرافيا",
+        "difficulty": "easy",
+        "answer": "الصحراء الكبرى",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هي عاصمة مصر؟",
+        "category": "الجغرافيا",
+        "difficulty": "easy",
+        "answer": "القاهرة",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هو أطول نهر في آسيا؟",
+        "category": "الجغرافيا",
+        "difficulty": "medium",
+        "answer": "نهر اليانغتسي",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هي أكبر جزيرة في البحر المتوسط؟",
+        "category": "الجغرافيا",
+        "difficulty": "medium",
+        "answer": "صقلية",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هو أعمق خندق بحري في العالم؟",
+        "category": "الجغرافيا",
+        "difficulty": "hard",
+        "answer": "خندق ماريانا",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هي أعلى شلالات في العالم؟",
+        "category": "الجغرافيا",
+        "difficulty": "hard",
+        "answer": "شلالات آنجل",
+        "points": 300
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "text": "كم عدد اللاعبين في فريق كرة القدم؟",
+        "category": "الرياضة",
+        "difficulty": "easy",
+        "answer": "11",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هي أشهر رياضة في البرازيل؟",
+        "category": "الرياضة",
+        "difficulty": "easy",
+        "answer": "كرة القدم",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هي الرياضة التي تستخدم فيها الكرة البيضاء الصغيرة؟",
+        "category": "الرياضة",
+        "difficulty": "medium",
+        "answer": "الجولف",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هو أطول سباق ماراثون في الألعاب الأولمبية؟",
+        "category": "الرياضة",
+        "difficulty": "medium",
+        "answer": "42.195 كم",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "من هو اللاعب الذي فاز بكأس العالم 3 مرات؟",
+        "category": "الرياضة",
+        "difficulty": "hard",
+        "answer": "بيليه",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هي الرياضة التي تستخدم فيها الكرة البرتقالية؟",
+        "category": "الرياضة",
+        "difficulty": "hard",
+        "answer": "كرة السلة",
+        "points": 300
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "text": "من هو الرسام الشهير الذي رسم لوحة صرخة؟",
+        "category": "الفن",
+        "difficulty": "easy",
+        "answer": "إدفارد مونك",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هو لون الدم في معظم اللوحات؟",
+        "category": "الفن",
+        "difficulty": "easy",
+        "answer": "أحمر",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما اسم الفن الذي يستخدم الحجر لصنع التماثيل؟",
+        "category": "الفن",
+        "difficulty": "medium",
+        "answer": "النحت",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هي أشهر قاعة عرض فني في باريس؟",
+        "category": "الفن",
+        "difficulty": "medium",
+        "answer": "اللوفر",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "من هو مؤلف السيمفونية الخامسة؟",
+        "category": "الفن",
+        "difficulty": "hard",
+        "answer": "بيتهوفن",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما اسم التقنية التي تستخدم الألوان الزيتية؟",
+        "category": "الفن",
+        "difficulty": "hard",
+        "answer": "الألوان الزيتية",
+        "points": 300
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "text": "من هو مؤلف رواية 'الغريب'؟",
+        "category": "الأدب",
+        "difficulty": "easy",
+        "answer": "ألبير كامو",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هي أشهر قصيدة للشاعر محمود درويش؟",
+        "category": "الأدب",
+        "difficulty": "easy",
+        "answer": "سجل أنا عربي",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "من هو مؤلف 'الكوميديا الإلهية'؟",
+        "category": "الأدب",
+        "difficulty": "medium",
+        "answer": "دانتي أليغييري",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هي أول رواية عربية حصلت على جائزة البوكر؟",
+        "category": "الأدب",
+        "difficulty": "medium",
+        "answer": "عزازيل",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "من هو مؤلف 'الجريمة والعقاب'؟",
+        "category": "الأدب",
+        "difficulty": "hard",
+        "answer": "فيودور دوستويفسكي",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هي أشهر رواية للكاتب غابرييل غارسيا ماركيز؟",
+        "category": "الأدب",
+        "difficulty": "hard",
+        "answer": "مائة عام من العزلة",
+        "points": 300
+      }
+    ],
+    "5": [
+      {
+        "id": 1,
+        "text": "في أي عام بدأت الحرب العالمية الثانية؟",
+        "category": "التاريخ",
+        "difficulty": "easy",
+        "answer": "1939",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "من هو مؤسس الدولة العباسية؟",
+        "category": "التاريخ",
+        "difficulty": "easy",
+        "answer": "أبو العباس السفاح",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هي أقدم حضارة في الشرق الأوسط؟",
+        "category": "التاريخ",
+        "difficulty": "medium",
+        "answer": "الحضارة المصرية",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "في أي عام تم اكتشاف أمريكا من قبل كريستوفر كولومبوس؟",
+        "category": "التاريخ",
+        "difficulty": "medium",
+        "answer": "1492",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "من هو آخر خليفة أموي؟",
+        "category": "التاريخ",
+        "difficulty": "hard",
+        "answer": "مروان بن محمد",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هي أقدم جامعة في أوروبا؟",
+        "category": "التاريخ",
+        "difficulty": "hard",
+        "answer": "جامعة بولونيا",
+        "points": 300
+      }
+    ],
+    "6": [
+      {
+        "id": 1,
+        "text": "ما هو أكبر عضو داخلي في جسم الإنسان؟",
+        "category": "الطب",
+        "difficulty": "easy",
+        "answer": "الكبد",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "كم عدد العضلات في جسم الإنسان؟",
+        "category": "الطب",
+        "difficulty": "easy",
+        "answer": "600",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هو أكبر شريان في القلب؟",
+        "category": "الطب",
+        "difficulty": "medium",
+        "answer": "الشريان الأورطي",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هو العضو المسؤول عن إنتاج الأنسولين؟",
+        "category": "الطب",
+        "difficulty": "medium",
+        "answer": "البنكرياس",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هو الهرمون المسؤول عن النمو؟",
+        "category": "الطب",
+        "difficulty": "hard",
+        "answer": "هرمون النمو",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هو أكبر غدة في الجهاز الهضمي؟",
+        "category": "الطب",
+        "difficulty": "hard",
+        "answer": "الكبد",
+        "points": 300
+      }
+    ],
+    "7": [
+      {
+        "id": 1,
+        "text": "ما هو ناتج 9 × 7؟",
+        "category": "الرياضيات",
+        "difficulty": "easy",
+        "answer": "63",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هو الجذر التربيعي لـ 169؟",
+        "category": "الرياضيات",
+        "difficulty": "easy",
+        "answer": "13",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هو ناتج 12²؟",
+        "category": "الرياضيات",
+        "difficulty": "medium",
+        "answer": "144",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هو ناتج 4³؟",
+        "category": "الرياضيات",
+        "difficulty": "medium",
+        "answer": "64",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هو ناتج 6!؟",
+        "category": "الرياضيات",
+        "difficulty": "hard",
+        "answer": "720",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هو ناتج 3⁴؟",
+        "category": "الرياضيات",
+        "difficulty": "hard",
+        "answer": "81",
+        "points": 300
+      }
+    ],
+    "8": [
+      {
+        "id": 1,
+        "text": "ما هو العنصر الأكثر وفرة في الكون؟",
+        "category": "العلوم",
+        "difficulty": "easy",
+        "answer": "الهيدروجين",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هو أقرب كوكب للشمس؟",
+        "category": "العلوم",
+        "difficulty": "easy",
+        "answer": "عطارد",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هو العنصر الكيميائي الذي رمزه Au؟",
+        "category": "العلوم",
+        "difficulty": "medium",
+        "answer": "الذهب",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هو أسرع حيوان بحري؟",
+        "category": "العلوم",
+        "difficulty": "medium",
+        "answer": "سمك الشراع",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هو أعمق خندق في المحيط الهادئ؟",
+        "category": "العلوم",
+        "difficulty": "hard",
+        "answer": "خندق ماريانا",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هو العنصر الأثقل في الجدول الدوري؟",
+        "category": "العلوم",
+        "difficulty": "hard",
+        "answer": "الأوغانيسون",
+        "points": 300
+      }
+    ],
+    "9": [
+      {
+        "id": 1,
+        "text": "ما هي أشهر لعبة فيديو من إنتاج سوني؟",
+        "category": "الألعاب",
+        "difficulty": "easy",
+        "answer": "غود أوف وور",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هي أشهر لعبة في العالم العربي؟",
+        "category": "الألعاب",
+        "difficulty": "easy",
+        "answer": "ببجي",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هي أول لعبة فيديو ثلاثية الأبعاد؟",
+        "category": "الألعاب",
+        "difficulty": "medium",
+        "answer": "وولفنشتاين 3D",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هي أشهر لعبة سباقات دراجات نارية؟",
+        "category": "الألعاب",
+        "difficulty": "medium",
+        "answer": "موتوجي بي جي بي",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هي أول لعبة فيديو تصل إلى القمر؟",
+        "category": "الألعاب",
+        "difficulty": "hard",
+        "answer": "لونار لاندر",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هي أشهر لعبة ألغاز في اليابان؟",
+        "category": "الألعاب",
+        "difficulty": "hard",
+        "answer": "بوكيمون جو",
+        "points": 300
+      }
+    ],
+    "10": [
+      {
+        "id": 1,
+        "text": "ما هو الطبق الوطني للبنان؟",
+        "category": "الطبخ",
+        "difficulty": "easy",
+        "answer": "الكبسة",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هو المكون الرئيسي في المنسف؟",
+        "category": "الطبخ",
+        "difficulty": "easy",
+        "answer": "الأرز واللحم",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هو الطبق الوطني لتايلاند؟",
+        "category": "الطبخ",
+        "difficulty": "medium",
+        "answer": "باد تاي",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هو الطبق الوطني لليونان؟",
+        "category": "الطبخ",
+        "difficulty": "medium",
+        "answer": "الموساكا",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هو الطبق الوطني لكوريا؟",
+        "category": "الطبخ",
+        "difficulty": "hard",
+        "answer": "الكيمتشي",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هو الطبق الوطني للبرازيل؟",
+        "category": "الطبخ",
+        "difficulty": "hard",
+        "answer": "فيجودا",
+        "points": 300
+      }
+    ],
+    "11": [
+      {
+        "id": 1,
+        "text": "ما هي أشهر سيارة رياضية من بورش؟",
+        "category": "السيارات",
+        "difficulty": "easy",
+        "answer": "911",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هي أشهر سيارة من هوندا؟",
+        "category": "السيارات",
+        "difficulty": "easy",
+        "answer": "سيفيك",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هي أسرع سيارة إنتاج في العالم 2023؟",
+        "category": "السيارات",
+        "difficulty": "medium",
+        "answer": "بوجاتي شيرون سوبر سبورت",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هي أول سيارة كهربائية تم إنتاجها؟",
+        "category": "السيارات",
+        "difficulty": "medium",
+        "answer": "تسلا رودستر",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هي أشهر سيارة من بنتلي؟",
+        "category": "السيارات",
+        "difficulty": "hard",
+        "answer": "كونتيننتال",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هي أشهر سيارة من ماكلارين؟",
+        "category": "السيارات",
+        "difficulty": "hard",
+        "answer": "F1",
+        "points": 300
+      }
+    ],
+    "12": [
+      {
+        "id": 1,
+        "text": "ما هي أشهر أغنية للمطرب فيروز؟",
+        "category": "الموسيقى",
+        "difficulty": "easy",
+        "answer": "سألوني الناس",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هي أشهر آلة موسيقية غربية؟",
+        "category": "الموسيقى",
+        "difficulty": "easy",
+        "answer": "البيانو",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "من هو مؤلف السيمفونية التاسعة؟",
+        "category": "الموسيقى",
+        "difficulty": "medium",
+        "answer": "بيتهوفن",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هي أشهر أغنية للمطرب محمد عبده؟",
+        "category": "الموسيقى",
+        "difficulty": "medium",
+        "answer": "يا طير",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هي أشهر أوبرا عربية؟",
+        "category": "الموسيقى",
+        "difficulty": "hard",
+        "answer": "عايدة",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "من هو مؤلف 'بحيرة البجع'؟",
+        "category": "الموسيقى",
+        "difficulty": "hard",
+        "answer": "تشايكوفسكي",
+        "points": 300
+      }
+    ],
+    "13": [
+      {
+        "id": 1,
+        "text": "ما هي أكبر مدينة سياحية في آسيا؟",
+        "category": "السفر",
+        "difficulty": "easy",
+        "answer": "طوكيو",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هي أشهر معالم دبي؟",
+        "category": "السفر",
+        "difficulty": "easy",
+        "answer": "برج خليفة",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هي أقدم مدينة مأهولة في آسيا؟",
+        "category": "السفر",
+        "difficulty": "medium",
+        "answer": "دمشق",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هي أكبر جزيرة في آسيا؟",
+        "category": "السفر",
+        "difficulty": "medium",
+        "answer": "بورنيو",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هي أطول سكة حديد في آسيا؟",
+        "category": "السفر",
+        "difficulty": "hard",
+        "answer": "سكة حديد سيبيريا",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هي أقدم مدينة في الشرق الأوسط؟",
+        "category": "السفر",
+        "difficulty": "hard",
+        "answer": "أريحا",
+        "points": 300
+      }
+    ],
+    "14": [
+      {
+        "id": 1,
+        "text": "ما هو أكثر يوم يتم فيه تبادل الهدايا؟",
+        "category": "الحب والعلاقات",
+        "difficulty": "easy",
+        "answer": "عيد الميلاد",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هو الرمز العالمي للسلام؟",
+        "category": "الحب والعلاقات",
+        "difficulty": "easy",
+        "answer": "الحمامة",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هو أكثر لون يرتبط بالسلام؟",
+        "category": "الحب والعلاقات",
+        "difficulty": "medium",
+        "answer": "الأبيض",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هو أكثر زهرة ترتبط بالسلام؟",
+        "category": "الحب والعلاقات",
+        "difficulty": "medium",
+        "answer": "زهرة اللوتس",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هو أكثر معدن يرتبط بالسلام؟",
+        "category": "الحب والعلاقات",
+        "difficulty": "hard",
+        "answer": "الفضة",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هو أكثر حجر كريم يرتبط بالسلام؟",
+        "category": "الحب والعلاقات",
+        "difficulty": "hard",
+        "answer": "الزمرد",
+        "points": 300
+      }
+    ],
+    "15": [
+      {
+        "id": 1,
+        "text": "ما هي أشهر شركة هواتف ذكية في الصين؟",
+        "category": "التكنولوجيا",
+        "difficulty": "easy",
+        "answer": "هواوي",
+        "points": 100
+      },
+      {
+        "id": 2,
+        "text": "ما هو أشهر متصفح إنترنت من مايكروسوفت؟",
+        "category": "التكنولوجيا",
+        "difficulty": "easy",
+        "answer": "إيدج",
+        "points": 100
+      },
+      {
+        "id": 3,
+        "text": "ما هي أشهر منصة تواصل اجتماعي للصور؟",
+        "category": "التكنولوجيا",
+        "difficulty": "medium",
+        "answer": "انستغرام",
+        "points": 200
+      },
+      {
+        "id": 4,
+        "text": "ما هو أشهر محرك بحث في الصين؟",
+        "category": "التكنولوجيا",
+        "difficulty": "medium",
+        "answer": "بايدو",
+        "points": 200
+      },
+      {
+        "id": 5,
+        "text": "ما هي أول شركة وصلت قيمتها إلى تريليوني دولار؟",
+        "category": "التكنولوجيا",
+        "difficulty": "hard",
+        "answer": "مايكروسوفت",
+        "points": 300
+      },
+      {
+        "id": 6,
+        "text": "ما هو أشهر نظام تشغيل للهواتف الذكية؟",
+        "category": "التكنولوجيا",
+        "difficulty": "hard",
+        "answer": "أندرويد",
+        "points": 300
+      }
+    ]
+  }
+} 
