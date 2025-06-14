@@ -39,5 +39,11 @@
         }
       }(window.location))
     </script>
+    <script type="text/javascript">
+      // Handle direct navigation to /game/
+      if (window.location.pathname === '/game/') {
+        window.history.replaceState(null, null, '/game');
+      }
+    </script>
   </body>
 </html>
