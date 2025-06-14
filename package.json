@@ -1,7 +1,7 @@
 {
     "name": "vite_react_shadcn_ts",
     "private": true,
-    "homepage": "https://mohamadalturky.github.io/game/",
+    "homepage": "https://mohamadalturky.github.io/game",
     "version": "0.0.0",
     "type": "module",
     "scripts": {

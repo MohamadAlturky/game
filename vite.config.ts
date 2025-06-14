@@ -5,11 +5,9 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/game/',
+  base: '/game',
   plugins: [
-    react(),
-    mode === 'development' &&
-    componentTagger(),
+    react()
   ].filter(Boolean),
   resolve: {
     alias: {

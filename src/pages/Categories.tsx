@@ -35,7 +35,7 @@ const categories = [
     id: 4,
     name: "تكنولوجيا",
     icon: Computer,
-    description: "الحاسوب والإنترنت والتقنيات الحديثة",
+    description: "الحاسوب والتقنيات الحديثة",
     questionsCount: 90,
     color: "bg-orange-500"
   },
