@@ -59,7 +59,7 @@ const Kids = () => {
         
         <div className="max-w-6xl mx-auto px-4 text-center relative z-10">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 text-shadow">
-            {import.meta.env.VITE_APP_NAME} للأطفال
+            عالم المعرفة للأطفال
           </h1>
           <p className="text-xl text-white/90 mb-8">
             واجهة خاصة بالأطفال.. تحدّي معلوماتهم على حسب أعمارهم
@@ -68,13 +68,13 @@ const Kids = () => {
           {/* Age Selection Buttons */}
           <div className="flex flex-wrap justify-center gap-4 mb-8">
             <Button className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-full">
-              {import.meta.env.VITE_APP_NAME}
+              عالم المعرفة للأطفال
             </Button>
             <Button className="bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-full">
               ألعاب
             </Button>
             <Button className="bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-full">
-              {import.meta.env.VITE_APP_NAME} حديد
+              عالم المعرفة حديد
             </Button>
           </div>
         </div>

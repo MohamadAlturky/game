@@ -8,9 +8,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo and Description */}
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">{import.meta.env.VITE_APP_NAME}</h3>
+            <h3 className="text-2xl font-bold mb-4">عالم المعرفة</h3>
             <p className="text-gray-300 mb-4">
-              {import.meta.env.VITE_APP_DESCRIPTION}
+              لعبة تحدي المعلومات والثقافة العامة
             </p>
             <div className="flex space-x-4 space-x-reverse">
               <Button variant="ghost" size="sm" className="text-gray-300 hover:text-white">
@@ -53,7 +53,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 {import.meta.env.VITE_APP_NAME}. جميع الحقوق محفوظة.
+            © 2024 عالم المعرفة. جميع الحقوق محفوظة.
           </p>
         </div>
       </div>
