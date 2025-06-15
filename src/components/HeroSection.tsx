@@ -193,7 +193,7 @@ const HeroSection = () => {
             transition={{ duration: 0.3 }}
           >
             <h1 className="text-6xl md:text-8xl font-bold text-shadow mb-8 animate-gradient bg-clip-text text-transparent bg-gradient-to-r from-white via-blue-200 to-white bg-size-200">
-              عالم المعرفة
+              بتعرف؟
             </h1>
             {/* <motion.p
               className="text-xl md:text-2xl text-shadow opacity-90"

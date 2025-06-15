@@ -17,7 +17,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <Link to="/" className="text-2xl font-bold text-primary">
-              عالم المعرفة
+              بتعرف؟
             </Link>
           </div>
 
@@ -42,7 +42,7 @@ const Header = () => {
                           👶
                         </div>
                         <div>
-                          <h3 className="font-semibold">عالم المعرفة للأطفال</h3>
+                          <h3 className="font-semibold">بتعرف؟ للأطفال</h3>
                           <p className="text-sm text-gray-600">ألعاب تعليمية للأطفال من 6-10 سنوات</p>
                         </div>
                       </Link>
@@ -55,7 +55,7 @@ const Header = () => {
                           🎯
                         </div>
                         <div>
-                          <h3 className="font-semibold">عالم المعرفة حديد</h3>
+                          <h3 className="font-semibold">بتعرف؟ حديد</h3>
                           <p className="text-sm text-gray-600">تحديات صعبة للمحترفين</p>
                         </div>
                       </a>
